@@ -2,6 +2,13 @@
 
 Debian package for installing GNU Smalltalk 3.2.5 (2013-04-08).
 
+## About GNU Smalltalk
+
+GNU Smalltalk is a free implementation of the Smalltalk programming language,
+one of the earliest object-oriented programming languages. Smalltalk played a
+significant role in the development of modern object-oriented programming and
+influenced languages such as Objective-C, Ruby, and many others.
+
 Official GNU Smalltalk website:
 
 https://www.gnu.org/software/smalltalk/
